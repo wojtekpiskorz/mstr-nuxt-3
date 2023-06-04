@@ -3,7 +3,7 @@
     class="underline font-medium"
     :href="firstLesson.path"
   >
-    Go to first lessons
+    Go to first lessonss
   </NuxtLink>
 </template>
 
